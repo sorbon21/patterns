@@ -1,6 +1,5 @@
 <?php
 
-namespace appTest;
 
 use app\creator\factory\ConcreteFactory;
 use app\creator\factory\Factory;

@@ -1,6 +1,5 @@
 <?php
 
-namespace appTest;
 
 use app\creator\factory_method\Boy;
 use app\creator\factory_method\BoyFactory;

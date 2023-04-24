@@ -1,6 +1,5 @@
 <?php
 
-namespace appTest;
 
 use app\creator\Singleton;
 use PHPUnit\Framework\TestCase;
