@@ -1,1 +1,6 @@
-# bot
+# PATTERNS
+    Порождающие:
+         Singleton
+         Factory
+         Factory METHOD
+        
